@@ -1,5 +1,7 @@
 #In Python, no semicolon ( ; ) is needed at line ends (though optional).
 #Parentheses are required around the string in Python 3.
+from functools import total_ordering
+
 print("Hello second world!")
 
 #variables
@@ -100,6 +102,8 @@ def add(a, b):
 # main.py
 #from math_utils import (add)
 print(add(2, 3))
+
+
 
 
 
