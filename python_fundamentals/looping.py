@@ -43,9 +43,10 @@ print()
 
 print("Nested for loop: ")
 for k in range(1,6):
-    for l in range(1,3):
+    for l in range(1,4):
         print(f'k: {k}, l: {l}')
 print()
+
 
 # Enumerated Nested For Loops
 # Enumerated Nested For Loops
